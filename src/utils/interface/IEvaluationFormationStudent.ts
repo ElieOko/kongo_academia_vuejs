@@ -1,4 +1,4 @@
-interface EvaluationFormationStudent {
+interface IEvaluationFormationStudent {
   id: number
   cote: number
   avis: string
