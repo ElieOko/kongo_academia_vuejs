@@ -28,3 +28,8 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+tailwind.config.js
+postcss.config.js
+package-lock.json
+package.json
