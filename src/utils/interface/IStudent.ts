@@ -2,10 +2,10 @@ interface IStudent {
   id: number
   nom: string
   prenom: string
-  age: number
+  birthday: string
   email: string
   adresse: string
-  profession_fk: number
-  telephone: string
-  user_fk: string
+  profession_fk: string
+  telephone: number
+  user_fk: number
 }
