@@ -1,6 +1,10 @@
-interface IUser{
-    id : number
-    username : string
-    email : string
-    password : string
+interface IUser {
+  id: number
+  username: string
+  email: string
+}
+
+interface IUserAuth {
+  username: string
+  password: string
 }
