@@ -4,3 +4,9 @@ interface ILevelFormation {
   level: string
   description: string
 }
+
+interface ILevelFormationRequest {
+  nom: string
+  level: string
+  description: string
+}

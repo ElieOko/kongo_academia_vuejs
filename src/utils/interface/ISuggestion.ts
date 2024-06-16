@@ -4,3 +4,9 @@ interface ISuggestion {
   email: string
   description: string
 }
+
+interface ISuggestionRequest {
+  nom: string
+  email: string
+  description: string
+}
